@@ -28,7 +28,8 @@ Click `Show` in the header to see your app live. Updates to your code will insta
 Find out more [about Glitch](https://glitch.com/about).
 
 ( ᵔ ᴥ ᵔ )
+[![Run on Repl.it](https://repl.it/badge/github/lokr123/dgdsfdsfsff)](https://repl.it/github/lokr123/dgdsfdsfsff)
 
+[![Run on Repl.it](https://repl.it/badge/github/lokr123/dgdsfdsfsff)](https://repl.it/github/lokr123/dgdsfdsfsff)
 
 ## Made by [lokr](https://www.youtube.com/watch?v=xA22tYN0BLg)
-
